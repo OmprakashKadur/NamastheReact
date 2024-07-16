@@ -1,0 +1,12 @@
+#header {
+    color: red
+}
+
+#parent {
+    border: 1px solid grey;
+    padding: 5px 10px;
+}
+
+.child {
+    color: blue
+}
