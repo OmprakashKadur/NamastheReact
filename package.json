@@ -1,0 +1,23 @@
+{
+  "name": "namasthereact",
+  "version": "1.0.0",
+  "description": "Namasthe React course by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/OmprakashKadur/NamastheReact.git)"
+  },
+  "keywords": [
+    "react",
+    "namasthe",
+    "React",
+    "Akshay",
+    "Saini",
+    "Omee"
+  ],
+  "author": "Omprakash K M",
+  "license": "ISC"
+}
