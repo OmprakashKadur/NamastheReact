@@ -1,1 +1,8 @@
-1. Add npm - Package.json file will be created
+1. What is crossorigin?
+2. What is CDN and CDN links?
+
+
+1. Add npm - Package.json file will be created npm init
+2. What is Package-lock.json? And Difference btw Package.json and Package-lock.json?
+3. ^ and ~ diferences.
+4. 

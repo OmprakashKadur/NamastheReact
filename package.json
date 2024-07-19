@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/OmprakashKadur/NamastheReact.git)"
+    "url": "git+https://github.com/OmprakashKadur/NamastheReact.git"
   },
-  "keywords": [
-    "react",
-    "namasthe",
-    "React",
-    "Akshay",
-    "Saini",
-    "Omee"
-  ],
+  "keywords": [],
   "author": "Omprakash K M",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
 }
